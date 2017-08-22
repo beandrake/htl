@@ -58,13 +58,13 @@ Learn more about the Digital Future Lab:
 
 ## Credits ##
 
-***Creative Director:*** Jason Pace'
-'***Producers:*** Aina Braxton, Christiana Jugovic, Hannah Kane'
-'***Design Leads:*** Elliott White, Emmett Scout'
-'***Art Lead:*** Nathan Evers'
-'***Lead Game/API Programmers:*** Rachel Horton, Branden Bean Drake, Sandy Chau'
-'***Game Engine Programmers:*** Jabediah Pavelas, Jack Chang, Daniel Azus, Fernando Arnez'
-'***Audio:*** J.C. Ignacio'
-'***QA:*** Cora Walker, Derek DeLizo'
-'***Project Coordinator:*** Aina Braxton'
-'***Game API Advisor:*** Michael Panitz, Kelvin Sung
+- ***Creative Director:*** Jason Pace
+- ***Producers:*** Aina Braxton, Christiana Jugovic, Hannah Kane
+- ***Design Leads:*** Elliott White, Emmett Scout
+- ***Art Lead:*** Nathan Evers
+- ***Lead Game/API Programmers:*** Rachel Horton, Branden Bean Drake, Sandy Chau
+- ***Game Engine Programmers:*** Jabediah Pavelas, Jack Chang, Daniel Azus, Fernando Arnez
+- ***Audio:*** J.C. Ignacio
+- ***QA:*** Cora Walker, Derek DeLizo
+- ***Project Coordinator:*** Aina Braxton
+- ***Game API Advisor:*** Michael Panitz, Kelvin Sung
