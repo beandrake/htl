@@ -20,8 +20,8 @@ Instead, players are asked to help migrating critters called Squibbles to reach 
 
 This repository contains project files for:
 
-- the HTL game's proof of concept
-- the tower defense API created during HTL's development
+- the HTL game's proof of concept (the HugTheLine directory)
+- the tower defense API created during HTL's development (the HTL directory)
 - several simple example projects that make use of the API
 
 
